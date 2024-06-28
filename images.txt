@@ -1,2 +1,4 @@
 --platform=linux/arm/v7 xiaoyaliu/alist:hostmode
 --platform=linux/arm/v7 xiaoyaliu/alist:latest
+xiaoyaliu/alist:hostmode
+xiaoyaliu/alist:latest
