@@ -1,3 +1,4 @@
+xiaoyaliu/alist:hostmode
 postgres:12.19-alpine3.20
 postgres:15.7-alpine3.20
 timescale/timescaledb:2.15.2-pg15
