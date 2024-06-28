@@ -1,2 +1,4 @@
-xiaoyaliu/alist:hostmode
+--plstform=linux/arm/v7 xiaoyaliu/alist:hostmode
+--plstform=linux/arm/v7 xiaoyaliu/alist:latest
 xiaoyaliu/alist:latest
+xiaoyaliu/alist:hostmode
